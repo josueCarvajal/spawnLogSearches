@@ -1,5 +1,7 @@
 # Spawn searches
 
+Assesment tool for a custom api.
+
 How to use the script:
 
 - Download the script
